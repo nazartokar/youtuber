@@ -1,0 +1,18 @@
+body {
+	background: #eee; 
+	margin: 0;
+	font-family: "PT Serif", Arial;
+}
+h1 {
+	margin: 5px 0 15px 0;
+}
+.wrapper {
+	background: #fff;
+	width: 700px;
+	padding: 5px 20px 15px;
+	margin: 0 auto; 
+	box-shadow: 0 0 20px #ccc;
+}
+img {
+	margin: 0 15px 15px 0;
+}
